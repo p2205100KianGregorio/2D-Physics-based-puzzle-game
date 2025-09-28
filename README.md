@@ -26,3 +26,25 @@ To get started with Kokoban, follow these steps:
 
 ---
 
+
+## 🎮 Game Controls & Objective
+
+Movement  
+Use `W`, `A`, `S`, `D` or the **Arrow Keys** to move your character:
+- `W` / ↑ : Move Up  
+- `S` / ↓ : Move Down  
+- `A` / ← : Move Left  
+- `D` / → : Move Right
+
+Pause  
+Press `P` to pause the game.
+
+Restart  
+Press `R` to restart the current level.
+
+Objective  
+Your goal is to push all the red boxes into the yellow target zones.  
+Think strategically—every move counts!
+
+
+
